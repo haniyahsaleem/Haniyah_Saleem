@@ -20,8 +20,7 @@ I'm a **Business Analytics postgraduate** based in Doha, Qatar, with a passion f
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Call Performance Analysis](https://github.com/haniyahsaleem/Call_Performance_Analysis) | Dashboard analysing call centre resolution times, volumes, and rates across 3 locations | Tableau, Excel |
-
-*More projects coming soon.*
+| [Global Cruise Industry Analysis](https://github.com/haniyahsaleem/global-cruise-industry-analysis) | 4-part Tableau Story exploring the global cruise industry's post-COVID recovery, regional growth patterns, and destination trends using CLIA 2025 data | Tableau, Excel |
 
 ---
 
@@ -40,7 +39,7 @@ I'm a **Business Analytics postgraduate** based in Doha, Qatar, with a passion f
 
 ## 🌱 Currently
 
-- Completing my MsC in Business Analytics
+- Completing my MS in Business Analytics
 - Open to internship and full-time opportunities in **tech and data analytics**
 - Building my data portfolio
 
